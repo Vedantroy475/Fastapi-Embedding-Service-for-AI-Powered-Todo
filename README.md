@@ -14,7 +14,7 @@ Unlike wrappers around paid APIs, this service runs a **local, Open Source LLM**
 > **🔗 Integration Context:**
 > This service acts as the computational brain for the main full-stack application.
 > View the **React/Node.js Monorepo** here: [**AI-Powered Todo App (Frontend + BFF)**](https://github.com/Vedantroy475/To-Do-App-AI-Powered-Edition.git)
-
+> * **🔴 See it in Action:** This microservice is currently deployed on Google Cloud Run and its powering the live app here: **[Live Demo](https://todo-420731733943.asia-south1.run.app)**
 ---
 
 # 🔬 Technical Architecture & AI Stack
