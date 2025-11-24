@@ -15,6 +15,8 @@ Unlike wrappers around paid APIs, this service runs a **local, Open Source LLM**
 > This service acts as the computational brain for the main full-stack application.
 > View the **React/Node.js Monorepo** here: [**AI-Powered Todo App (Frontend + BFF)**](https://github.com/Vedantroy475/To-Do-App-AI-Powered-Edition.git)
 
+> **🎥 Full Walkthrough:** Watch the system in action ( AI Agents, RAG Chat) without waiting for cold starts:
+> 👉 **[Watch Video Demo on Google Drive](https://drive.google.com/file/d/1ldu7uddTZkGLydh5yzuGOMjJnf0Krqjq/view?usp=sharing)**
 ---
 
 # 🔬 Technical Architecture & AI Stack
