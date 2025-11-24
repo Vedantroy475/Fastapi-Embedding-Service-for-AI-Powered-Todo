@@ -17,6 +17,9 @@ Unlike wrappers around paid APIs, this service runs a **local, Open Source LLM**
 
 > **🎥 Full Walkthrough:** Watch the system in action ( AI Agents, RAG Chat) without waiting for cold starts:
 > 👉 **[Watch Video Demo on Google Drive](https://drive.google.com/file/d/1ldu7uddTZkGLydh5yzuGOMjJnf0Krqjq/view?usp=sharing)**
+
+> * **🔴 See it in Action:** This microservice is currently deployed on Google Cloud Run and its powering the live app here: **[Live Demo](https://todo-420731733943.asia-south1.run.app)**
+
 ---
 
 # 🔬 Technical Architecture & AI Stack
